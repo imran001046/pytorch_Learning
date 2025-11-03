@@ -1,0 +1,11 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+
+# Data & models (optional, large files)
+data/
+models/
